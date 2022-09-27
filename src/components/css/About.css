@@ -1,0 +1,52 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-right: -200px;
+}
+
+.description{
+    padding-top: 25px;
+    width: 50%;
+    line-height: 1.8;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 0px;
+}
+
+.img{
+    width: 400px;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+
+.buttons {
+    display: block;
+    text-decoration: underline;
+}
+
+.greeting{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#about {
+    padding-bottom: 30px;
+    border-bottom: 3px solid grey;
+}
+
+.tech{
+    text-align: center;
+    border: 12px solid grey;
+border-radius: 10px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-right: 30px;
+margin-left: 30px;
+padding-top: 30px;
+}
+
+
+
+
