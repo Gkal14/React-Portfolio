@@ -20,7 +20,7 @@ export default function Navbar() {
            <a href="#contact">
             Contact me
           </a>
-          <a href="/resume">
+          <a href=".../assets/George-resume.pdf">
             Resume
           </a>
         
