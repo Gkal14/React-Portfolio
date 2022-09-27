@@ -1,0 +1,54 @@
+.heading{
+  text-align: center;
+  padding-top: 30px;
+}
+
+a{
+    padding-right: 30px;
+}
+
+.sub-head{
+    margin-left: 20px;
+    text-align: center;
+}
+
+.container-p {
+    position:relative;
+    padding-left: 20px;
+  }
+  
+  .image {
+    display: block;
+    width: 80%;
+    height: 600px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 600px;
+    width: 80%;
+    opacity: 0;
+    transition: 1s ease;
+    background-color: darkgray;
+    margin-left: 10px;
+  }
+  
+  .container-p:hover .overlay {
+    opacity: 1;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }

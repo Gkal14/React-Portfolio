@@ -1,0 +1,31 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-right: -200px;
+}
+
+.description{
+    padding-top: 25px;
+    width: 50%;
+    line-height: 1.8;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 0px;
+}
+
+.img{
+    width: 400px;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+
+.buttons {
+    display: block;
+}
+
+.greeting{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
