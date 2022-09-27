@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "./resume/George-resume.pdf"
 import "./css/Nav.css"
 
 export default function Navbar() {
@@ -20,7 +21,7 @@ export default function Navbar() {
            <a href="#contact">
             Contact me
           </a>
-          <a href=".../assets/George-resume.pdf">
+          <a href={resume}>
             Resume
           </a>
         
