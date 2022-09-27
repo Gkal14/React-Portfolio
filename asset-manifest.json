@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.e97fe9a3.css",
-    "main.js": "/React-Portfolio/static/js/main.23ee1acc.js",
+    "main.css": "/React-Portfolio/static/css/main.336e2bfe.css",
+    "main.js": "/React-Portfolio/static/js/main.f3cbf62a.js",
     "static/js/496.043184c6.chunk.js": "/React-Portfolio/static/js/496.043184c6.chunk.js",
     "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.3889d5f73b3dd28f70d2.png",
     "static/media/George-resume.pdf": "/React-Portfolio/static/media/George-resume.a08705d9027212e09667.pdf",
     "static/media/Quiz.png": "/React-Portfolio/static/media/Quiz.f44eae6c9d7a6247c8b0.png",
     "static/media/Weather dashboard.png": "/React-Portfolio/static/media/Weather dashboard.3f6db5f45bcf6fe8acd7.png",
     "static/media/me.jpeg": "/React-Portfolio/static/media/me.d0cd69d4263bfe0f54b2.jpeg",
+    "static/media/Password Generator.png": "/React-Portfolio/static/media/Password Generator.2550a39e48b8cfd4d256.png",
+    "static/media/JATE.png": "/React-Portfolio/static/media/JATE.fd2776664fa72c1a67e3.png",
     "static/media/MoviDex.png": "/React-Portfolio/static/media/MoviDex.5848edfca6425c5bd46f.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.e97fe9a3.css.map": "/React-Portfolio/static/css/main.e97fe9a3.css.map",
-    "main.23ee1acc.js.map": "/React-Portfolio/static/js/main.23ee1acc.js.map",
+    "main.336e2bfe.css.map": "/React-Portfolio/static/css/main.336e2bfe.css.map",
+    "main.f3cbf62a.js.map": "/React-Portfolio/static/js/main.f3cbf62a.js.map",
     "496.043184c6.chunk.js.map": "/React-Portfolio/static/js/496.043184c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e97fe9a3.css",
-    "static/js/main.23ee1acc.js"
+    "static/css/main.336e2bfe.css",
+    "static/js/main.f3cbf62a.js"
   ]
 }
