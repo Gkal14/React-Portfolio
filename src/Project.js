@@ -2,6 +2,8 @@ import MoviDex from  "./assets/MoviDex.png"
 import day from "./assets/day-planner.png"
 import Quiz from "./assets/Quiz.png"
 import Weather from "./assets/Weather dashboard.png"
+import JATE from "./assets/JATE.png"
+import passwordGenerator from "./assets/Password Generator.png"
 
 
 export const projects= [
@@ -36,5 +38,21 @@ export const projects= [
           "The weather dashboard uses a web API to generate multi-day weather forecasts for users with a responsive design",
         image: Weather,
         link: "https://gkal14.github.io/weather-dashboard/",
+      },
+      {
+        title: "Just Another Text Editor",
+        subtitle: "Technologies: HTML, CSS, JavaScript, Nodejs, Expressjs",
+        description:
+          "This text editor functions online and is downloadable so that the user is able to store and edit text offline.",
+        image: JATE,
+        link: "https://jate-t-editor.herokuapp.com/",
+      },
+      {
+        title: "Password Generator",
+        subtitle: "Technologies: HTML, CSS, JavaScript",
+        description:
+          "This application is a random password generator",
+        image: passwordGenerator,
+        link: "https://gkal14.github.io/javascript-password-generator/",
       },
 ]
