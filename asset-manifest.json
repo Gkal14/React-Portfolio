@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gkal14/React-Portfolio/static/css/main.e97fe9a3.css",
+    "main.js": "/Gkal14/React-Portfolio/static/js/main.7121056b.js",
+    "static/js/496.043184c6.chunk.js": "/Gkal14/React-Portfolio/static/js/496.043184c6.chunk.js",
+    "static/media/day-planner.png": "/Gkal14/React-Portfolio/static/media/day-planner.3889d5f73b3dd28f70d2.png",
+    "static/media/Quiz.png": "/Gkal14/React-Portfolio/static/media/Quiz.f44eae6c9d7a6247c8b0.png",
+    "static/media/Weather dashboard.png": "/Gkal14/React-Portfolio/static/media/Weather dashboard.3f6db5f45bcf6fe8acd7.png",
+    "static/media/me.jpeg": "/Gkal14/React-Portfolio/static/media/me.d0cd69d4263bfe0f54b2.jpeg",
+    "static/media/MoviDex.png": "/Gkal14/React-Portfolio/static/media/MoviDex.5848edfca6425c5bd46f.png",
+    "index.html": "/Gkal14/React-Portfolio/index.html",
+    "main.e97fe9a3.css.map": "/Gkal14/React-Portfolio/static/css/main.e97fe9a3.css.map",
+    "main.7121056b.js.map": "/Gkal14/React-Portfolio/static/js/main.7121056b.js.map",
+    "496.043184c6.chunk.js.map": "/Gkal14/React-Portfolio/static/js/496.043184c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e97fe9a3.css",
+    "static/js/main.7121056b.js"
+  ]
+}
