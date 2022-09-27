@@ -6,6 +6,7 @@ import Nav from "./components/Nav";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
+import resume from "./components/resume";
 
 export function App() {
   return (
@@ -15,6 +16,7 @@ export function App() {
       <About/>
       <Projects/>
       <Footer/>
+      <resume/>
     </main>
   );
 }

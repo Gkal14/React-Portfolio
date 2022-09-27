@@ -1,4 +1,5 @@
 import React from "react";
+import { Container } from "react-bootstrap";
 import MyPicture from "../assets/me.jpeg"
 import './css/About.css';
 
@@ -19,7 +20,7 @@ to utilise and build on the skills that I have gained throughout my time studyin
 Through my studies I have built several applications requiring an understanding of HTML, CSS, JavaScript, Bootstrap, Tailwind,
 Nodejs, Reactjs and several other technologies. 
 Happiest when busy and really enjoying the challanges of learning how to code.
-I look forward to continue creating things that excite me and hope to share them with the world.
+Moving forward I will continue to create things that excite me and I hope to share them with the world.
 <div className="buttons"> 
 <br></br>
             <a href="#contact">
@@ -36,6 +37,20 @@ I look forward to continue creating things that excite me and hope to share them
             src={MyPicture}
           />
         </div>
+            <Container className="tech">
+              <h2>Technologies</h2>
+              <p>Below is a list of technologies that I have gained proficiency in since I started my coding journey</p>
+              <ul>HTML</ul>
+              <ul>CSS</ul>
+              <ul>Bootstrap</ul>
+              <ul>Tailwind</ul>
+              <ul>JavaScript</ul>
+              <ul>JQuery</ul>
+              <ul>Nodejs</ul>
+              <ul>Express</ul>
+              <ul>MySQL</ul>
+              <ul>React</ul>
+            </Container>
         </div>
       </div>
     </section>

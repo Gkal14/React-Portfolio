@@ -9,7 +9,7 @@ export const projects= [
         title: "MoviDex",
         subtitle: "Technologies: HTML, Tailwind, Javascript, node",
         description:
-          "This app using apis enables the user to search any movie and read information and see ratings! It also provides the current streaming services that play the movie.",
+          "Using web APIs this application allows users to search for movies and return reviews, streaming platforms, links to those platforms as well as trailers",
         image: MoviDex,
         link: "https://gkal14.github.io/MoviDex/",
       },

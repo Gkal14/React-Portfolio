@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="container-nav">
 
           <a href="#about" className="spacing">
-           <h2>George's Portfolio</h2>
+           <h2>George Kaluwin</h2>
           </a>
       
         <nav className="options">
@@ -20,7 +20,7 @@ export default function Navbar() {
            <a href="#contact">
             Contact me
           </a>
-          <a href="../assets/George-resume.pdf">
+          <a href="/resume">
             Resume
           </a>
         
