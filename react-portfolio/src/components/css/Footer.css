@@ -1,12 +1,16 @@
-#contact {
+.contact-message {
     padding-bottom: 30px;
-    align-items: center;
-    margin-right: 50%;
+    text-align: center;
 }
 
 .form {
     margin-left: 20px;
+    margin-right: 20px;
     display: flex;
     flex-direction: column;
     padding-bottom: 30px;
+}
+
+#contact{
+    border-top: 3px solid grey;
 }

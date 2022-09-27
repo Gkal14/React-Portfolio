@@ -11,11 +11,11 @@ export default function Navbar() {
           </a>
       
         <nav className="options">
-          <a href="#projects" className="spacing">
-            My Projects
-          </a>
           <a href="#about" className="spacing">
-            About Me
+            About me
+          </a>
+          <a href="#projects" className="spacing">
+            My projects
           </a>
            <a href="#contact">
             Contact me

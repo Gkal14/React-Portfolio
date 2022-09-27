@@ -8,7 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <>
-    <div className="bg"></div>
+    <link href='https://fonts.googleapis.com/css?family=Spartan' rel='stylesheet'></link>
+<div className="bg"></div>
 <div className="bg bg2"></div>
 <div className="bg bg3"></div>
 </>

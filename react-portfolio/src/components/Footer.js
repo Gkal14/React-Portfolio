@@ -4,15 +4,19 @@ import "./css/Footer.css"
 export default function Footer()  {
   return (
     <div id='contact' className=''>
-        <form method='POST' action="https://getform.io/f/3e10c187-9d81-4eda-8464-b8b80d858230" className="form">
-            <div className='pb-8'>
-                <p className=''>Contact</p>
-                <p className=''>Submit the form below or email me at - georgekaluwin@gmail.com </p>
+        <form className="form">
+            <div className='contact-message'>
+                <h1>Contact</h1>
+                <p className=''>Submit the form below or contact me via any of the following
+                </p>
+                <a href="https://www.linkedin.com/in/george-kaluwin" target="_blank">LinkedIn </a>
+                    <a href="mailto:georgekaluwin@gmail.com" target="_blank">Email</a>
+                    <a href="https://github.com/Gkal14" target="_blank">GitHub </a>
             </div>
             <input className='' type="text" placeholder='Name' name='name' />
             <input className='' type="email" placeholder='Email' name='email' />
-            <textarea className='' name="message" rows="10" placeholder='Message'></textarea>
-            <button className=''>Contact me!</button>
+            <textarea name="message" rows="10" placeholder='Message'></textarea>
+            <button className=''>Contact me</button>
         </form>
     </div>
   )

@@ -19,7 +19,7 @@ export const projects= [
         description:
           "This day planner updates the HTML depending on the time of the day",
         image: day,
-        link: "https://github.com/Gkal14/day-planner",
+        link: "https://gkal14.github.io/day-planner/",
       },
       {
         title: "Coding Quiz",
@@ -27,7 +27,7 @@ export const projects= [
         description:
           "The Coding Quiz uses JavaScript to update HTML in real time and set parameters for the game",
         image: Quiz,
-        link: "https://github.com/Gkal14/coding-quiz",
+        link: "https://gkal14.github.io/coding-quiz/",
       },
       {
         title: "Weather dashboard",
@@ -35,6 +35,6 @@ export const projects= [
         description:
           "The weather dashboard uses a web API to generate multi-day weather forecasts for users with a responsive design",
         image: Weather,
-        link: "https://github.com/Gkal14/weather-dashboard",
+        link: "https://gkal14.github.io/weather-dashboard/",
       },
 ]

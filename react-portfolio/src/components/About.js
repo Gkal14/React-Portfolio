@@ -5,15 +5,11 @@ import './css/About.css';
 export default function About() {
   return (
     <section id="about">
-      <div className="bg"></div>
-<div className="bg bg2"></div>
-<div className="bg bg3"></div>
-<div className="content">
       <div className="flex">
         <div >
           <h1 className="greeting">
             Hi, i'm George 
-            <br/>A Web Developer with a passion for creating human centred applications with an emphasis on design quality.
+            <br/>A Web Developer with a passion for creating user focused applications with an emphasis on design quality.
           </h1>
           <div className="row">
           <p className="description">
@@ -30,7 +26,7 @@ I look forward to continue creating things that excite me and hope to share them
              Contact Me
             </a>
             <a href="#projects">
-              See My Projects!
+              See My Projects
             </a>
           </div>
 
@@ -41,7 +37,6 @@ I look forward to continue creating things that excite me and hope to share them
           />
         </div>
         </div>
-      </div>
       </div>
     </section>
   );

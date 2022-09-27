@@ -11,9 +11,9 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="sub-head">
-            Below are a few of the projects i have completed. 
-            if you want to see even more of my work please ckeckout my github ....
-            <a href = "https://github.com/Gkal14"></a>
+            Here are a few of the projects i have completed. <br></br>
+            If you want to view the code for any of my projects, follow this link to my 
+            <a href = "https://github.com/Gkal14"> GitHub</a>
           </p>
         </div>
         <div>
