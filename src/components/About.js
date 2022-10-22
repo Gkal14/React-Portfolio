@@ -9,7 +9,7 @@ export default function About() {
       <div className="flex">
         <div >
           <h1 className="greeting">
-            Hi, i'm George 
+            Hi, i'm George <br/>
             <br/>A Web Developer with a passion for creating user focused applications with an emphasis on design quality.
           </h1>
           <div className="row">
