@@ -55,4 +55,21 @@ a{
     text-align: center;
   }
 
- 
+ /* MEDIA QUERIES */
+
+/* Desktops/large screens */
+@media (max-width: 1200px){
+
+}
+
+/* Small screens/laptops */
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 924px){
+
+    .container-p {
+       width: 90%;
+    }
+  }

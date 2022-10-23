@@ -7,7 +7,7 @@ export default function About() {
   return (
     <section id="about">
       <div className="flex">
-        <div >
+        <div class="greet-w">
           <h1 className="greeting">
             Hi, i'm George <br/>
             <br/>A Web Developer with a passion for creating user focused applications with an emphasis on design quality.

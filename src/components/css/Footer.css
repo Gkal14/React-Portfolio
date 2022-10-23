@@ -14,3 +14,9 @@
 #contact{
     border-top: 3px solid grey;
 }
+
+.contact{
+    align-items: center;
+    text-align: center;
+    padding-left: 30px;
+}
