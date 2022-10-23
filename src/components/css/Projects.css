@@ -22,6 +22,7 @@ a{
     height: 500px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 15px;
   }
   
   .overlay {
@@ -37,6 +38,7 @@ a{
     background-color: darkgray;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 15px;
   }
   
   .container-p:hover .overlay {
